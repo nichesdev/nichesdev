@@ -4,9 +4,3 @@
   <source media="(prefers-color-scheme: light)" srcset="./nichesdev_white.svg">
   <img alt="retr0-r00t README banner" src="./nichesdev_new.svg">
 </picture>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,redis,kafka,py,git,github,idea,vscode,docker,postman" />
-  </a>
-</p>
